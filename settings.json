@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Lalith_067-CZXP.aternos.me",
-    "port": 17527,
+    "ip": "Lalith_067-tQMu.aternos.me",
+    "port": 43115,
     "version": "",
     "try-creative": false
   },
@@ -32,6 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
+        "",
         "I like to play Minecraft!"
       ]
     },
